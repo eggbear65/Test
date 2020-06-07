@@ -1,3 +1,3 @@
 Write-Host 'Hello, World!'
 
-1. Änderung.
+1. Aenderung.
